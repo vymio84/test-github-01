@@ -4,3 +4,6 @@ This is a demo to how use GIT
 // git status
 // git add
 // git commit
+
+// git log
+// git show
