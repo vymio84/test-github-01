@@ -12,3 +12,7 @@ This is a demo to how use GIT
 // working directory
 // staging area
 // git repository
+// guik ---> GUI = graphic user interface
+
+// git checkout -- <file>
+// git reset
