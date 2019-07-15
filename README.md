@@ -7,3 +7,9 @@ This is a demo to how use GIT
 
 // git log
 // git show
+// git diff
+asfdasdsa
+sdfasdfas
+sadasdas
+
+sdsa
