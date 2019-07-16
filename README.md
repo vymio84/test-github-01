@@ -3,7 +3,7 @@ lesson 1
 // git init
 // git status
 // git add <filename>
-// git commit --m <notice>
+// git commit --m '<message>'
 
 lesson 2
 // git log
@@ -33,8 +33,10 @@ git checkout master
 git merge feature/lion-class
 // git branch -D <branch name> --> delete branch
 
-lession 6: git reset  
+lesson 6: git reset  
 // git reset --soft <to-commit-id> --> uncommit file (staging area)
 // git reset --mixed <to-commit-id> --> uncommit file back to working directory
 // git reset --hard <to-commit-id> --> uncommit and delete commit after specify commit-id
 <not recommend>
+
+lesson 7: git reverse <commit-id>
