@@ -40,3 +40,4 @@ lesson 6: git reset
 <not recommend>
 
 lesson 7: git reverse <commit-id>
+lesson 8: .gitignore
