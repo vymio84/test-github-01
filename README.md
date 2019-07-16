@@ -41,3 +41,6 @@ lesson 6: git reset
 
 lesson 7: git reverse <commit-id>
 lesson 8: .gitignore
+lesson 9: github git push
+lesson 10: git credential
+// git config --global credential.helper "cache --timeout=18000"
