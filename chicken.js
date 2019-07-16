@@ -1,1 +1,3 @@
-function Chicken() {}
+function Chicken(name) {
+	this.name = name;
+}
